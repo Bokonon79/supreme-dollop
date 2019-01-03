@@ -7,7 +7,7 @@ namespace Dollop
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Mars!");
-            Console.WriteLine("---===|00000000>");
+            Console.WriteLine("---===|000000000000000>");
         }
     }
 }
