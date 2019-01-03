@@ -6,7 +6,8 @@ namespace Dollop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, Mars!");
+            Console.WriteLine("---===|000>");
         }
     }
 }
